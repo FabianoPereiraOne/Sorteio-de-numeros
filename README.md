@@ -1,2 +1,2 @@
-# Sorteio de numero
+# Sorteio de numeros
  
