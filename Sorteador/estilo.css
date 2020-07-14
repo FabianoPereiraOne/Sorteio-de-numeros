@@ -10,3 +10,13 @@ div#painel h1{
     color:rgb(241, 4, 4);
     font-weight: bold;
 }
+div#res{
+    display:block;
+    text-align: center;
+    border: 1px solid #606060;
+    width: 50px;
+    margin: auto;
+    height: 20px;
+    margin-top: 10px;
+    background-color: rgb(116, 240, 223);
+}
